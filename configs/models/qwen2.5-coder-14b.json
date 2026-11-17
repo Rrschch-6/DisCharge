@@ -1,0 +1,7 @@
+{
+  "_comment": "Steering layer = zero-based decoder block whose input is edited (36 of 48, about 75% depth); override with --target-layer",
+  "model_name": "Qwen/Qwen2.5-Coder-14B",
+  "target_layer": 36,
+  "dataset": "data/qwen2.5-coder-14b.pt",
+  "output_dir": "runs/qwen2.5-coder-14b"
+}

@@ -1,0 +1,7 @@
+{
+  "_comment": "Steering layer = zero-based decoder block whose input is edited (30 of 40, about 75% depth); override with --target-layer",
+  "model_name": "bigcode/starcoder2-15b",
+  "target_layer": 30,
+  "dataset": "data/starcoder2-15b.pt",
+  "output_dir": "runs/starcoder2-15b"
+}

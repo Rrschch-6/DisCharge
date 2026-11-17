@@ -1,0 +1,7 @@
+{
+  "_comment": "Steering layer = zero-based decoder block whose input is edited (30 of 40, about 75% depth); override with --target-layer",
+  "model_name": "codellama/CodeLlama-13b-hf",
+  "target_layer": 30,
+  "dataset": "data/codellama-13b.pt",
+  "output_dir": "runs/codellama-13b"
+}

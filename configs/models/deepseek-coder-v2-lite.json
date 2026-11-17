@@ -1,0 +1,7 @@
+{
+  "_comment": "Steering layer = zero-based decoder block whose input is edited (20 of 27, about 75% depth); override with --target-layer",
+  "model_name": "deepseek-ai/DeepSeek-Coder-V2-Lite-Base",
+  "target_layer": 20,
+  "dataset": "data/deepseek-coder-v2-lite.pt",
+  "output_dir": "runs/deepseek-coder-v2-lite"
+}
